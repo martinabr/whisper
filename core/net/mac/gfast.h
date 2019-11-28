@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2011, ETH Zurich.
+ * Copyright (c) 2018, TU Dresden.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -26,15 +26,8 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * Author: Federico Ferrari <ferrari@tik.ee.ethz.ch>
+ * Author: Martina Brachmann <martina.brachmann@tu-dresden.de>
  *
- */
-
-/**
- * \file
- *         Glossy core, header file.
- * \author
- *         Federico Ferrari <ferrari@tik.ee.ethz.ch>
  */
 
 #ifndef GLOSSY_WHISPER_H_
